@@ -1,0 +1,15 @@
+---
+title: Photo4
+subtitle: photo4
+layout: default
+modal-id: 4
+date: 2021-05-01
+img: photo4.jpg
+thumbnail: photo4.jpg
+alt: image-alt
+project-date: May 2021
+client: Start Bootstrap
+category: Photo
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

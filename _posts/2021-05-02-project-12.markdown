@@ -1,0 +1,15 @@
+---
+title: Photo12
+subtitle: photo12
+layout: default
+modal-id: 12
+date: 2021-05-02
+img: photo12.jpg
+thumbnail: photo12.jpg
+alt: image-alt
+project-date: May 2021
+client: Start Bootstrap
+category: Photo
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

@@ -1,0 +1,15 @@
+---
+title: Photo9
+subtitle: photo9
+layout: default
+modal-id: 9
+date: 2021-05-01
+img: photo9.jpg
+thumbnail: photo9.jpg
+alt: image-alt
+project-date: May 2021
+client: Start Bootstrap
+category: Photo
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

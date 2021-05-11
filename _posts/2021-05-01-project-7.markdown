@@ -1,0 +1,15 @@
+---
+title: Photo7
+subtitle: photo7
+layout: default
+modal-id: 7
+date: 2021-05-01
+img: photo7.jpg
+thumbnail: photo7.jpg
+alt: image-alt
+project-date: May 2021
+client: Start Bootstrap
+category: Photo
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

@@ -1,0 +1,15 @@
+---
+title: Work2
+subtitle: work2
+layout: default
+modal-id: 14
+date: 2021-05-09
+img: work2.jpg
+thumbnail: work2.jpg
+alt: image-alt
+project-date: May 2021
+client: Start Bootstrap
+category: Work
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---
